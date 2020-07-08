@@ -1,7 +1,12 @@
-# New API endpoint for CSV validation
-
-* Status: proposed
-* Date: 2018-03-28
+---
+layout: page
+status: accepted
+adr: "0005"
+title: New API endpoint for CSV validation
+date: 2018-03-28
+deciders:
+date:
+---
 
 ## Context and problem statement
 
